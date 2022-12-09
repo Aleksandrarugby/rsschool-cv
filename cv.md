@@ -2,7 +2,7 @@
 
  *Phone:  +375333808161*
 
- 
+
  *Email: aleksandra.petrukovich@gmail.com*
 
 ## *Target position*
