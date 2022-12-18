@@ -15,9 +15,8 @@ body {
     background-color: #F5F7FA;
 }
 
+/* nav styles */
 
-
-/* nav */
 .nav {
     display: flex;
     width: 1200px;
@@ -42,7 +41,6 @@ body {
     color: #565e6a;
 }
 
-
 /* main styles*/
 
 .main {
@@ -53,7 +51,6 @@ body {
 }
 
 .main-content {
-   
     background: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px;
@@ -65,7 +62,7 @@ body {
     margin-bottom: 40px;
 }
 
-.about-position{
+.about-position {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -83,64 +80,15 @@ body {
     margin-bottom: 25px;
 }
 
-.about-description{
+.about-description {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     color: #595959;
     width: 400px;
+    text-align: justify;
     }
-
-
-/* projects styles */
-
-.projects {
-  margin-bottom: 50px;  
-}
-
-.title {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
-    color: #000000;
-    margin-bottom: 10px;
-    }
-
-.projects-list {
-    padding: 0;
-    margin-left: 15px;
-    }
-
-    .project-item {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-    }
-
-   .project,
-   .project-link {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-   }
-
-   .project-link {
-    margin-left: 17px;
-   }
-
-.project-bracket {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000; 
-}
 
 /* work styles */
 
@@ -219,7 +167,7 @@ body {
     margin-bottom: 10px;
  }
 
- /* projects-1 */
+ /* projects styles */
 
  .projects-1 {
     margin-bottom: 45px; 
@@ -233,10 +181,10 @@ body {
     color: #565e6a;
  }
 
-/* code */
+/* code styles */
 
 .code {
-    margin-bottom: 200px;
+    margin-bottom: 50px;
 }
 
 .pre {
@@ -266,7 +214,7 @@ body {
     margin-bottom: 45px;
  }
 
- .sidebar-title {
+ .sidebar-tit {
     color: #FFFFFF;
     font-style: normal;
     font-weight: 700;
@@ -312,7 +260,7 @@ body {
     line-height: 24px;
 }
 
-/* footer */
+/* footer styles */
 
 .footer {
     display: flex;
@@ -322,9 +270,11 @@ body {
     margin: auto;
     line-height: 50px;
 }
+
 .footer-logo {
     margin-top: 15px;
 }
+
 .footer-link {
     margin: 18px;
     font-style: normal;
